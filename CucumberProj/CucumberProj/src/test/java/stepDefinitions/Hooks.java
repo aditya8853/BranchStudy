@@ -9,5 +9,6 @@ public class Hooks {
 	public void beforeValidations()
 	{
 		System.out.println("Before annotation");
+		System.out.println("Checking pull");
 	}
 }

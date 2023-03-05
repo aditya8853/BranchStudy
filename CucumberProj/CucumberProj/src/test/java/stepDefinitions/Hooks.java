@@ -10,5 +10,6 @@ public class Hooks {
 	{
 		System.out.println("Before annotation");
 		System.out.println("Checking pull");
+		System.out.println("Checking push");
 	}
 }
